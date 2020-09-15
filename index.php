@@ -38,7 +38,7 @@
                                 <li class="nav-item"> <a class="nav-link active" href="#home">HOME <span class="sr-only">(current)</span></a> </li>
                                 <li class="nav-item"> <a class="nav-link" href="#features">FEATURES</a> </li>
                                 <li class="nav-item"> <a class="nav-link" href="#gallery">ABOUT</a> </li>
-                                <li class="nav-item"> <a class="nav-link" href="COURSE.html">COURSE</a> </li>
+                                <li class="nav-item"> <a class="nav-link" href="downloadapp.html">COURSE</a> </li>
                                 <li class="nav-item"> <a class="nav-link" href="#contact">CONTACT</a> </li>
                                 <li class="nav-item"> <a class="nav-link" href="login/index.php">SIGNUP</a> </li>
                                 <li class="nav-item"> <a class="nav-link" href="login/index.php">LOGIN</a> </li>
